@@ -32,23 +32,23 @@ Installation Guide:
     * Close installer. 
  
 If card reader is connected and company card is inserted – you should see following view: 
+* Gray - Company card is not inserted
+* Red - Unable to read Card ID, inappropriate or broken Card.
+* Yellow - Company card ID read, waiting for authorization from server.
+* Green - Company card ID is read and authorized.
+* Blue - Shows using what device(imei) company card is communicating with tachograph.
 
 ## Vehicles
 
-Placeholder text goes here, this is just placeholder text, make sure that you replace me asap. Thank you and good night. Placeholder text goes here, this is just placeholder text, make sure that you replace me asap. Thank you and good night. Placeholder text goes here, this is just placeholder text, make sure that you replace me asap. Thank you and good night. 
-
-
-### Adding
-
-Placeholder text goes here, this is just placeholder text, make sure that you replace me asap. Thank you and good night. Placeholder text goes here, this is just placeholder text, make sure that you replace me asap. Thank you and good night. Placeholder text goes here, this is just placeholder text, make sure that you replace me asap. Thank you and good night. 
+The vehicle section is the home view, from here you can add, remove and edit vehicles, monitor and download files and observe schedule status changes in real time.
 
 ## Download Schedules
 
-Placeholder text goes here, this is just placeholder text, make sure that you replace me asap. Thank you and good night. Placeholder text goes here, this is just placeholder text, make sure that you replace me asap. Thank you and good night. Placeholder text goes here, this is just placeholder text, make sure that you replace me asap. Thank you and good night. 
+From the download schedule tab, you can create, edit and remove shedules for pulling the tachograph files, using the checkboxes you can select what information you want to download from the tachograph unit. 
 
 ## Tachograph Files
 
-Placeholder text goes here, this is just placeholder text, make sure that you replace me asap. Thank you and good night. Placeholder text goes here, this is just placeholder text, make sure that you replace me asap. Thank you and good night. Placeholder text goes here, this is just placeholder text, make sure that you replace me asap. Thank you and good night. 
+From the tachograph file view, you can download the syncronized tachograph files to your local machine, for the files to be present the vehicle must have cycled ignition after the scheduled download time with the company card present in the card reader.
 
 ## History
 
