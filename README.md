@@ -44,7 +44,7 @@ The vehicle section is the home view, from here you can add, remove and edit veh
 
 ## Download Schedules
 
-From the download schedule tab, you can create, edit and remove shedules for pulling the tachograph files, using the checkboxes you can select what information you want to download from the tachograph unit. 
+From the download schedule tab, you can create, edit and remove shedules for pulling the tachograph files, using the checkboxes you can select what information you want to download from the tachograph unit.  
 
 ## Tachograph Files
 
@@ -52,11 +52,21 @@ From the tachograph file view, you can download the syncronized tachograph files
 
 ## History
 
+From the history tab, you can view the history of scheduled file downloads, when the unit was last present and if the files were downloaded before, the history acts as an audit log to show what happened where and why.
+
 ## Company Card Management
+
+From the company card management tab, you can add, edit and delete company cards. Multiple cards may be necessary when working with fleets using multiple company cards (regional depots). Using the tacho card reader program, you can generate the card code to enter into the code area.
 
 ## Company Management
 
+From the company management screen you can add, edit and delete companies. This is used for managing depots within a single company, this is subject to the total limit of devices available to the current logged in company group.
+
 ## User Management
 
+From the user management screen you can add, edit and delete users. Setting the users view permissions and access, they can be restricted to view only certain depots.
+
 ## Remote File Synchronization
+
+From the remote file synchronization screen you can set up custom FTP settings. This means that files can automatically be FTP'ed once they have been syncronized between the tachograph unit and the tacho server.
  
