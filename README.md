@@ -1,11 +1,11 @@
 ![](https://www.datatool.co.uk/wp-content/uploads/2017/07/Datatool-evo.png)
 # Datatool Easy Fit Alarm System
 ## Installation & User Guide
-Thank you for choosing the DATATOOL EVO, a motorcycle, scooter and quad alarm with movement sensing and voltage sensing capabilities.
+!> Thank you for choosing the DATATOOL EVO, a motorcycle, scooter and quad alarm with movement sensing and voltage sensing capabilities.
 This security system is designed as a deterrent and is not in itself a guarantee against theft prevention. We advise you that the more difficult you make your machine to be stolen the lower the potential risk.
 Applying common sense and securing your machine with additional security every time you park plays a large part in this.  
 
-## Installation Guide
+> ## Installation Guide
 
 > The DATATOOL EVO is designed for a simple installation and is pre wired ready to connect direct to the vehicle battery with the red terminal going to the positive connection and the black terminal to the negative, alternatively it may be hard wired as follows:
 
@@ -25,7 +25,7 @@ Secure the control unit to the vehicle using the provided cable ties and ensure 
 
 
 
-## Arm/Disarm Tones
+ ## Arm/Disarm Tones
 
 !> IMPORTANT: The arm/disarm tones are switched off by default as this is a legislative requirement in certain countries. This means as standard, the LED is the only sign the alarm is operational, please check it carefully. If you prefer the alarm to make a noise on arm/disarm, please refer to the details in the Programming section of this user guide. This may not comply with legislation in your country. 
 
@@ -78,15 +78,15 @@ Upon disarming the alarm the siren will sound one long beep and then the LED wil
 
 **Number of flashes/chirps:**
 
-*((1)) Ignition circuit
+* (1) Ignition circuit
 
-*((2)) Seat switch
+* (2) Seat switch
 
-*((3)) Movement alert
+* (3) Movement alert
 
-*((4)) Panic function activated
+* (4) Panic function activated
 
-*((5)) Power (vehicle battery) removal
+* (5) Power (vehicle battery) removal
 
 ### Auto re-arm: 
 Selectable, switched off as standard. If enabled this function is disabled when engine on is detected.
@@ -101,7 +101,6 @@ When triggered, the siren will sound for 29 seconds. The alarm will then re-arm.
 
 ## Optional Feature
 ### Panic mode:
-
 Holding down the large button for 3 seconds will sound the siren. Press the large button once to stop the siren. Feature will operate in armed state with ignition on or off, and disarmed state with ignition off.
 
 
@@ -147,4 +146,5 @@ To reset to defaults set the LED to flash twice and buzzer beep twice. To exit w
 The LED flash count and buzzer beep count will show the number of remotes programed to work with the alarm.
 Pressing the large button on the remote, existing or new, will add this to the system and delete all previously entered remote controls. Press the large button on each remote control that is required; the buzzer will beep as each valid remote is pressed and then the LED flash/buzzer beep count will increase as each remote is added. If the maximum number of remotes has been reached then the LED flash/ buzzer beep count will not increase indicating that the last remote pressed has not been saved.
 
-!> Important: If all working remote controls are lost or damaged it is not possible to reprogram the alarm. Always ensure you have at least one spare remote control programmed to operate the alarm.
+!> **Important:**  
+If all working remote controls are lost or damaged it is not possible to reprogram the alarm. Always ensure you have at least one spare remote control programmed to operate the alarm.
